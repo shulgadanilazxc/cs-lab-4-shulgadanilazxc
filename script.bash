@@ -11,6 +11,6 @@ do
   else
      echo "HOST IS UP"
   fi
-done
+done 
 }
 func $*
